@@ -1,7 +1,12 @@
 ### Hi there 👋
+My name is Ashwin Anil
 
+[![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHWIN776)](https://github.com/ASHWIN776/github-readme-stats)
 <!--
 **ASHWIN776/ASHWIN776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
