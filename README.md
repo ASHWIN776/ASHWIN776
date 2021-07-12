@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ashwin Anil
+#<center>My name is Ashwin Anil</center>
 
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHWIN776&theme=dark&show_icons=true)
 
