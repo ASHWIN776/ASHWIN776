@@ -1,5 +1,4 @@
-### Hi there 👋
-# <p align="center">Ashwin Anil</p>
+# Hi there 👋 <p align="center">Ashwin Anil</p>
 
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHWIN776&theme=dark&show_icons=true)
 
