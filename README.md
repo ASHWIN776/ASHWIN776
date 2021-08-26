@@ -3,7 +3,6 @@
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHWIN776&theme=dark&show_icons=true)
 
 - 🌱 I’m currently learning Javascript
-<!-- - 🔭 I’m currently working on making a Donation System -->
 - 💬 Ask me about HTML, CSS, JavaScript, PHP
 - ⚡ Fun fact: I am a gamer. Behold! VALORANT
 
@@ -23,5 +22,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
+<!-- - 🔭 I’m currently working on making a Donation System -->
 -->
