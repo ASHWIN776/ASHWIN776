@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-<!-- - 🔭 I’m currently working on making a Donation System -->
+ - 🔭 I’m currently working on making a Donation System 
 -->
