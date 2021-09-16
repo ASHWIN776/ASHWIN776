@@ -2,7 +2,7 @@
 
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHWIN776&theme=dark&show_icons=true)
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning ReactJS
 - 💬 Ask me about HTML, CSS, JavaScript, PHP
 - ⚡ Fun fact: I am a gamer. Behold! VALORANT
 
