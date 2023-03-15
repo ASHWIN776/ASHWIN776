@@ -2,9 +2,9 @@
 
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHWIN776&theme=dark&show_icons=true)
 
-- 🌱 I’m currently learning ReactJS
-- 💬 Ask me about HTML, CSS, JavaScript, PHP
-- ⚡ Fun fact: I am a gamer. Behold! VALORANT
+- 🌱 I’m currently learning Redux
+- 💬 Ask me about HTML, CSS, JavaScript, PHP, React
+- ⚡ Fun fact: I love reading Books
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWIN776&layout=compact)
 <!--
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
- - 🔭 I’m currently working on making a Donation System 
+ - 🔭 I’m currently working on making community ranker
 -->
